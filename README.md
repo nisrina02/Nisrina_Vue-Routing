@@ -1,24 +1,13 @@
 # vue-routing
 
-## Project setup
-```
-npm install
-```
+## Screenshot Home Page
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<img src="../SS/Home.png">
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshot About Page
 
-### Lints and fixes files
-```
-npm run lint
-```
+<img src="../SS/About.png">
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshot Contact Page
+
+<img src="../SS/Contact.png">
