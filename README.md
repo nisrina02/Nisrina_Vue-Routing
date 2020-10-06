@@ -2,12 +2,12 @@
 
 ## Screenshot Home Page
 
-<img src="../SS/Home.png">
+<img src="../../SS/Home.png">
 
 ## Screenshot About Page
 
-<img src="../SS/About.png">
+<img src="../../SS/About.png">
 
 ## Screenshot Contact Page
 
-<img src="../SS/Contact.png">
+<img src="../../SS/Contact.png">
